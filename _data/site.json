@@ -1,10 +1,10 @@
 {
-  "name": "Spacebook",
+  "name": "docBook",
   "subtitle": "Create a modern notebook to document or explain almost anything.",
   "description": "Create a modern notebook to document or explain almost anything with spacebook.app",
   "footer": "Made with ❤ in Minneapolis",
   "url": "https://spacebook.app",
-  "githubUrl": "https://github.com/<username>/<repository>",
+  "githubUrl": "https://github.com/fu4303/docBook",
   "githubBranch": "main",
   "navigationStyle": "vertical",
   "emoji": "💥",

@@ -1,3 +1,14 @@
+---
+title: Javascript
+date: Last Modified
+permalink: /javascript/index.html
+comments: 0
+eleventyNavigation:
+  key: Javascript
+  title: Javascript
+  order: 10
+---
+
 # JAVASCRIPT TIPS & TRICKS  🔥🚀⚡
 A collection of JavaScript tips and tricks.
 

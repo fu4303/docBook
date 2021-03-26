@@ -1,3 +1,14 @@
+---
+title: CSS
+date: Last Modified
+permalink: /css/index.html
+comments: 0
+eleventyNavigation:
+  key: CSS
+  title: CSS
+  order: 15
+---
+
 <p align="center">
   <img src="https://rawgit.com/AllThingsSmitty/css-protips/master/media/logo.svg" width="200" alt="light bulb icon">
 </p>

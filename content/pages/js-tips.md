@@ -1,12 +1,13 @@
 ---
 title: Js-Tips
-date: Last Modified
-permalink: js-tips/javascript/index.html
+date: 2020-11-20
+permalink: /javascript/js-tips/index.html
+toc: true
 comments: 0
 eleventyNavigation:
   key: Js-Tips
-  title: Js-Tips
-  order: 10
+  order: 35
+  parent: Javascript
 ---
 
 # JAVASCRIPT TIPS & TRICKS  🔥🚀⚡

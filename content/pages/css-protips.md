@@ -1,12 +1,13 @@
 ---
-title: CSS
-date: Last Modified
-permalink: /css/index.html
+title: CSS Protips
+date: 2020-11-20
+permalink: /css/css-protips/index.html
+toc: true
 comments: 0
 eleventyNavigation:
-  key: CSS
-  title: CSS
-  order: 15
+  key: CSS Protips
+  order: 35
+  parent: CSS
 ---
 
 <p align="center">

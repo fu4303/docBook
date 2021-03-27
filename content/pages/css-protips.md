@@ -19,15 +19,6 @@ A collection of tips to help take your CSS skills pro.
 
 > For other great lists check out [@sindresorhus](https://github.com/sindresorhus/)'s curated list of [awesome lists](https://github.com/sindresorhus/awesome/).
 
-
-## Table of Contents
-
-* [Protips](#protips)
-* [Support](#support)
-* [Translations](#translations)
-* [Contribution Guidelines](CONTRIBUTING.md)
-
-
 ## Protips
 
 1. [Use a CSS Reset](#use-a-css-reset)
@@ -633,29 +624,3 @@ br + br {
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
-## Support
-
-Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
-
-<sup>[back to table of contents](#table-of-contents)</sup>
-
-
-## Translations
-
-* [简体中文](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-CN)
-* [正體中文](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-TW)
-* [Deutsch](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/de-DE)
-* [Español](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/es-ES)
-* [Français](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/fr-FR)
-* [λληνικά](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/gr-GR)
-* [ગુજરાતી](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/gu-IND)
-* [Italiano](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/it-IT)
-* [日本語](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ja-JP)
-* [한국어](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ko-KR)
-* [Polskie](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pl-PL)
-* [Português do Brasil](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pt-BR)
-* [Português do Europe](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pt-PT)
-* [Русский](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ru-RU)
-* [Tiếng Việt](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/vn-VN)
-
-<sup>[back to table of contents](#table-of-contents)</sup>

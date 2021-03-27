@@ -1,11 +1,11 @@
 ---
-title: Javascript
+title: Js-Tips
 date: Last Modified
-permalink: /javascript/index.html
+permalink: js-tips/javascript/index.html
 comments: 0
 eleventyNavigation:
-  key: Javascript
-  title: Javascript
+  key: Js-Tips
+  title: Js-Tips
   order: 10
 ---
 

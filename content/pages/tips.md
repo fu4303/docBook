@@ -11,8 +11,8 @@ eleventyNavigation:
 ---
 
 ## Table of Contents
--[Generate a unique global id for elements that need one](##Generate a unique global id for elements that need one)
--[Pre-populate an array in javascript](##Pre-populate an array in javascript)
+- [Generate a unique global id for elements that need one](##Generate a unique global id for elements that need one)
+- [Pre-populate an array in javascript](##Pre-populate an array in javascript)
 
 ## Generate a unique global id for elements that need one
 
@@ -47,7 +47,7 @@ console.log(uniqueId()) // 3
 console.log(uniqueId('testing')) // testing_4
 ```
 
-I hope that's helpful and interesting to you. 👋🏼
+- [Table of Contents](##Table of Contents)
 
 
 ## Pre-populate an array in javascript
@@ -77,4 +77,4 @@ function createArray(size: number) {
 }
 ```
 
-I hope that's helpful and interesting to you. 👋🏼
+- [Table of Contents](##Table of Contents)

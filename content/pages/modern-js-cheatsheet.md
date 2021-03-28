@@ -1,4 +1,14 @@
-# Modern JavaScript Cheatsheet
+---
+title: Modern Js Cheatsheet
+date: 2021-03-27
+permalink: /javascript/modern-js-cheatsheet/index.html
+toc: true
+comments: 0
+eleventyNavigation:
+  key: Modern Js Cheatsheet
+  order: 20
+  parent: Javascript
+---
 
 ![Modern JavaScript cheatsheet](https://i.imgur.com/aexPxMb.png)
 <sub>Image Credits: [Ahmad Awais ⚡️](https://github.com/ahmadawais)</sub>

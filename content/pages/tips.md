@@ -11,8 +11,28 @@ eleventyNavigation:
 ---
 
 ## Table of Contents
+- [Unique array in javascript](##Unique array in javascript)
 - [Generate a unique global id for elements that need one](##Generate a unique global id for elements that need one)
 - [Pre-populate an array in javascript](##Pre-populate an array in javascript)
+
+## Unique array in javascript
+
+And today's code snippet is about how to get unique values from an array in JavaScript.
+
+I have seen some versions of this snippet before, but the one I like to recommend the most is the use of a [Set](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set) object alongside with the [spread syntax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax) in JavaScript.
+
+By default, a `Set` is meant to store unique values and spreading it into an array is enough to give us the desired result.
+
+
+```ts
+const uniqueArray = arr => [...new Set(arr)]
+
+uniqueArray(['ReactJS', 'NextJS', 'NodeJS', 'ReactJS']) // ['ReactJS', 'NextJS', 'NodeJS']
+
+uniqueArray([1, 2, 2, 3, 3, 3, 4, 4, 4, 4]) // [1, 2, 3, 4]
+```
+
+- [Table of Contents](##Table of Contents)
 
 ## Generate a unique global id for elements that need one
 

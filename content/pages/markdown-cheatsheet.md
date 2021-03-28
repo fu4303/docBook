@@ -10,7 +10,6 @@ eleventyNavigation:
   parent: Markdown
 ---
 
-Markdown Cheatsheet<a name="TOP"></a>
 ===================
 
 - - - - 

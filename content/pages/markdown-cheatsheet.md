@@ -1,3 +1,15 @@
+---
+title: Markdown Cheatsheet
+date: 2021-03-27
+permalink: /markdown/markdown-cheatsheet/index.html
+toc: true
+comments: 0
+eleventyNavigation:
+  key: Markdown Cheatsheet
+  order: 35
+  parent: Markdown
+---
+
 Markdown Cheatsheet<a name="TOP"></a>
 ===================
 

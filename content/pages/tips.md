@@ -15,7 +15,7 @@ eleventyNavigation:
 - [Generate a unique global id for elements that need one](#Generate a unique global id for elements that need one)
 - [Pre-populate an array in javascript](#Pre-populate an array in javascript)
 
-## Unique array in javascript
+### Unique array in javascript
 
 And today's code snippet is about how to get unique values from an array in JavaScript.
 
@@ -34,7 +34,7 @@ uniqueArray([1, 2, 2, 3, 3, 3, 4, 4, 4, 4]) // [1, 2, 3, 4]
 
 - [Table of Contents](#Table of Contents)
 
-## Generate a unique global id for elements that need one
+### Generate a unique global id for elements that need one
 
 Examples:
 
@@ -70,7 +70,7 @@ console.log(uniqueId('testing')) // testing_4
 - [Table of Contents](#Table of Contents)
 
 
-## Pre-populate an array in javascript
+### Pre-populate an array in javascript
 
 This is the second post I write about code snippets I find useful (you can check the first one [here](/blog/code-snippets-uniqueid)).
 And today's code snippet is how to pre-populate an array in JavaScript.

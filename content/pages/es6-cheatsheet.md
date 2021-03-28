@@ -1,3 +1,15 @@
+---
+title: es6-cheatsheet
+date: 2021-03-27
+permalink: /javascript/es6-cheatsheet/index.html
+toc: true
+comments: 0
+eleventyNavigation:
+  key: es6-cheatsheet
+  order: 25
+  parent: Javascript
+---
+
 # es6-cheatsheet
 
 A cheatsheet containing ES2015 [ES6] tips, tricks, best practices and code

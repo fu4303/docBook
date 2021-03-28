@@ -10,8 +10,6 @@ eleventyNavigation:
   parent: Javascript
 ---
 
-# es6-cheatsheet
-
 A cheatsheet containing ES2015 [ES6] tips, tricks, best practices and code
 snippet examples for your day to day workflow. Contributions are welcome!
 

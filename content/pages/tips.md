@@ -11,9 +11,9 @@ eleventyNavigation:
 ---
 
 ## Table of Contents
-- [Unique array in javascript](#Unique array in javascript)
-- [Generate a unique global id for elements that need one](#Generate a unique global id for elements that need one)
-- [Pre-populate an array in javascript](#Pre-populate an array in javascript)
+- [Unique array in javascript](#Unique-array-in-javascript)
+- [Generate a unique global id for elements that need one](#Generate-a-unique-global-id-for-elements-that-need-one)
+- [Pre-populate an array in javascript](#Pre-populate-an-array-in-javascript)
 
 ### Unique array in javascript
 
@@ -32,7 +32,7 @@ uniqueArray(['ReactJS', 'NextJS', 'NodeJS', 'ReactJS']) // ['ReactJS', 'NextJS',
 uniqueArray([1, 2, 2, 3, 3, 3, 4, 4, 4, 4]) // [1, 2, 3, 4]
 ```
 
-- [Table of Contents](#Table of Contents)
+- [Table of Contents](#Table-of-Contents)
 
 ### Generate a unique global id for elements that need one
 
@@ -67,7 +67,7 @@ console.log(uniqueId()) // 3
 console.log(uniqueId('testing')) // testing_4
 ```
 
-- [Table of Contents](#Table of Contents)
+- [Table of Contents](#Table-of-Contents)
 
 
 ### Pre-populate an array in javascript
@@ -97,4 +97,4 @@ function createArray(size: number) {
 }
 ```
 
-- [Table of Contents](#Table of Contents)
+- [Table of Contents](#Table-of-Contents)

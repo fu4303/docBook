@@ -39,7 +39,7 @@
     "@tailwindcss/typography": "^0.3.1",
     "autoprefixer": "^10.1.0",
     "clean-css": "^4.2.1",
-    "clean-css-cli": "^4.3.0",
+    "clean-css-cli": "^5.3.2",
     "elasticlunr": "^0.9.5",
     "eleventy-plugin-embed-everything": "^1.9.4",
     "eleventy-plugin-nesting-toc": "^1.2.0",
